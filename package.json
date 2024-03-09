@@ -1,0 +1,17 @@
+{
+  "name": "express",
+  "version": "1.0.2",
+  "description": "This is express package containinhg information about modules.",
+  "main": "scaffholding.js",
+ 
+  "scripts": {
+    "test": "no"
+  },
+  "author": "Suresh Marisetty",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.15",
+    "pug": "^3.0.2",
+    "qr-image": "^3.2.0"
+  }
+}
